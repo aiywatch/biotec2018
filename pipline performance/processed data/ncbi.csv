@@ -1,0 +1,82 @@
+,superkingdom,kingdom,phylum,class,order,family,genus,species,count
+5585,,,,,,,,,3
+5586,Bacteria,,,,,,,,3191
+5587,Bacteria,,Proteobacteria,,,,,,341
+5588,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,,56
+5589,Bacteria,,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,,,1
+5590,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,Candidatus Baumannia cicadellinicola,1
+5591,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,,,990
+5592,Bacteria,,,,,,,,89
+5593,Bacteria,,Firmicutes,,,,,,1998
+5594,Bacteria,,Firmicutes,Bacilli,,,,,4
+5595,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus raffinosus,1
+5596,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,10982
+5597,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tyrobutyricum,24
+5598,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium butyricum,2
+5599,Bacteria,,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,,,1
+5600,Bacteria,,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Pseudobutyrivibrio,,1
+5601,Eukaryota,,,,,,,,1
+59571,Bacteria,,,,,,,,2520
+59572,Bacteria,,Proteobacteria,,,,,,2068
+59573,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,,53
+59574,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,,,4366
+59575,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Wigglesworthia,Wigglesworthia glossinidia,7
+59576,Bacteria,,Proteobacteria,Betaproteobacteria,Methylophilales,,,,1
+59577,Bacteria,,,,,,,,45
+59578,Bacteria,,Firmicutes,Bacilli,,,,,1
+59579,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,3
+59580,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,5077
+59581,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tyrobutyricum,24
+59582,Bacteria,,,,,,,,5190
+59583,Bacteria,,,,,,,,414
+59584,Bacteria,,Firmicutes,,,,,,1345
+59585,Bacteria,,Firmicutes,Bacilli,,,,,18
+59586,Bacteria,,Firmicutes,Bacilli,Lactobacillales,,,,4
+59587,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus raffinosus,2
+59588,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,11
+59589,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,7
+59590,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus anthracis,1
+59591,Bacteria,,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Peptoniphilus,Peptoniphilus sp. 1-1,2
+59592,Bacteria,,Firmicutes,Clostridia,Clostridiales,,,,1811
+59593,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,5375
+59594,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium butyricum,5
+59595,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tyrobutyricum,173
+59596,Bacteria,,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,,,52
+59597,Bacteria,,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Allobaculum,Allobaculum stercoricanis,7
+59598,Bacteria,,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,,1
+59599,Bacteria,,Proteobacteria,,,,,,344
+59600,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,,46
+59601,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,,,774
+79880,Bacteria,,,,,,,,2228
+79881,Bacteria,,Proteobacteria,,,,,,3655
+79882,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,,83
+79883,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,,,7395
+79884,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Wigglesworthia,Wigglesworthia glossinidia,17
+79885,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,Candidatus Baumannia cicadellinicola,1
+79886,Bacteria,,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,Succinivibrio dextrinosolvens,1
+79887,Bacteria,,,,,,,,35
+79888,Bacteria,,Firmicutes,,,,,,1
+79889,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,2215
+79890,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tyrobutyricum,20
+79891,Bacteria,,Firmicutes,Bacilli,,,,,7
+79892,Bacteria,,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Allobaculum,Allobaculum stercoricanis,2
+112039,Bacteria,,,,,,,,2227
+112040,Bacteria,,Proteobacteria,,,,,,1145
+112041,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,,34
+112042,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,,,2233
+112043,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Wigglesworthia,Wigglesworthia glossinidia,3
+112044,Bacteria,,,,,,,,9
+112045,Bacteria,,Firmicutes,,,,,,2544
+112046,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,13537
+112047,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tyrobutyricum,78
+171621,Bacteria,,,,,,,,2520
+171622,Bacteria,,Proteobacteria,,,,,,2068
+171623,Bacteria,,Proteobacteria,Gammaproteobacteria,,,,,53
+171624,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,,,4366
+171625,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Wigglesworthia,Wigglesworthia glossinidia,7
+171626,Bacteria,,Proteobacteria,Betaproteobacteria,Methylophilales,,,,1
+171627,Bacteria,,,,,,,,45
+171628,Bacteria,,Firmicutes,Bacilli,,,,,1
+171629,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,3
+171630,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,,5077
+171631,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tyrobutyricum,24

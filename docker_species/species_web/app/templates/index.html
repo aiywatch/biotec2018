@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div id="checkbox">
+	<input type="checkbox" name="env" onchange="toggleEnvLabel(this)" checked value="env">show env label<br>
+</div>
+
+<div id="cy"></div>
+
+
+
+<script type=text/javascript src="{{
+  url_for('static', filename='js/cytoscape-arbor.js') }}"></script>
+
+<script>
+
+
+var json_data = JSON.parse('{{ data|safe }}');
+
+
+var node_ids = [];
+var edge_ids = [];
+
+
+var cy = cytoscape({
+	container: document.getElementById("cy"),
+
+	style: [{
+		selector: ".node_show_label",
+		style: {
+			shape: "hexagon",
+			"background-color": "red",
+			label: "data(fix_label)"
+		}},
+		{
+		selector: ".node_no_label",
+		style: {
+			shape: "hexagon",
+			"background-color": "red",
+		}},
+	],
+
+});
+
+for (i = 0; i < json_data.length; i++) { 
+    row = json_data[i]
+    if (!node_ids.includes(row["species"])){
+	    cy.add({
+			data: {id: row["species"], label: row["species"]},
+			style: {
+				shape: "hexagon",
+				"background-color": "red",
+			}
+		});
+		node_ids.push(row["species"])
+    }
+
+    if (!node_ids.includes(row["env_biome"])){
+		cy.add({
+			data: {id: row["env_biome"], label: row["env_biome"], 
+				   fix_label: row["env_biome"]},
+			style: {
+					shape: "hexagon",
+					"background-color": "green",
+			}
+		});
+		node_ids.push(row["env_biome"])
+    }
+
+    if (!edge_ids.includes(row["species"]+row["env_biome"])){
+		cy.add({
+			data: {
+				id: row["species"]+row["env_biome"],
+				source: row["species"],
+				target: row["env_biome"], 
+				label: ""
+			}
+		});
+		edge_ids.push(row["species"]+row["env_biome"])
+    }
+}
+
+
+for(i=0; i<cy.nodes().length;i++){
+	current_node = cy.nodes()[i]
+	size = Math.log2(current_node.degree())*3 + 4
+	current_node.style("width", size)
+	current_node.style("height", size)
+
+}
+
+cy.layout({
+	name: "cose"
+}).run()
+cy.nodes().classes("node_show_label")
+
+
+cy.nodes().qtip({
+	content: function(){ return this.data("label") },
+	position: {
+		my: 'top center',
+		at: 'bottom center'
+	},
+	style: 'string',
+	show: {
+        event: 'mouseover'
+    },
+	hide: {
+        event: 'mouseout'
+    }
+});
+
+function toggleEnvLabel(checkboxElem) {
+  if (checkboxElem.checked) {
+    cy.nodes().classes("node_show_label")
+  } else {
+    cy.nodes().classes("node_no_label")
+  }
+}
+
+</script>
+
+<!-- <script type=text/javascript src="{{
+  url_for('static', filename='js/network_drawing.js') }}"></script> -->
+
+
+{% endblock %}
+
+
+

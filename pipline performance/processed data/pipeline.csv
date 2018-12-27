@@ -1,0 +1,370 @@
+,species,count,superkingdom,kingdom,phylum,class,order,family,genus
+0,Clostridium pasteurianum,41563,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+1,Klebsiella pneumoniae,15514,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+2,uncultured bacterium,14871,Bacteria,,,,,,
+3,Klebsiella pneumoniae subsp. pneumoniae,2949,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+4,uncultured organism,1545,,,,,,,
+5,Escherichia coli,930,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+6,Salmonella enterica subsp. enterica serovar Albany,682,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella
+7,Klebsiella sp.,628,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+8,Klebsiella sp. UIWRF0518,536,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+9,Enterococcus faecalis,463,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+10,uncultured Klebsiella sp.,451,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+11,Shigella sp.,395,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+12,Klebsiella variicola,306,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+13,Escherichia sp.,277,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+14,Klebsiella sp. UIWRF0499,247,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+15,uncultured Escherichia sp.,213,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+16,Klebsiella sp. NCIM5432,188,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+17,Klebsiella sp. SUS6K,167,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+18,Clostridium tyrobutyricum,127,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+19,uncultured low G+C Gram-positive bacterium,125,Bacteria,,Firmicutes,,,,
+20,Enterobacter cloacae,121,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+21,uncultured prokaryote,119,,,,,,,
+22,Clostridium amylolyticum,103,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+23,[Clostridium] indolis,93,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,
+24,uncultured Clostridium sp.,89,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+25,Klebsiella quasipneumoniae subsp. quasipneumoniae,80,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+26,Shigella flexneri 5 str. 8401,70,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+27,uncultured Enterococcus sp.,64,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+28,endosymbiont of Sphenophorus levis,58,Bacteria,,Proteobacteria,Gammaproteobacteria,,,Candidatus Nardonella
+29,Klebsiella sp. HC1,55,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+30,Shigella flexneri,51,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+31,uncultured Oscillibacter sp.,50,Bacteria,,Firmicutes,Clostridia,Clostridiales,Oscillospiraceae,Oscillibacter
+32,Klebsiella sp. CR45,45,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+33,uncultured Enterobacteriaceae bacterium,41,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+34,Klebsiella variicola At-22,40,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+35,bacterium AD8(2012),37,Bacteria,,,,,,
+36,Enterobacteriaceae bacterium DHL-40,35,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+37,Klebsiella sp. M.pstv.26.2,33,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+38,Enterococcus sp. L191(2011),30,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,
+39,Klebsiella sp. 29MoSuero,29,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+40,Klebsiella sp. PN2,27,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+41,uncultured gamma proteobacterium,27,Bacteria,,Proteobacteria,Gammaproteobacteria,,,
+42,Klebsiella sp. enrichment culture clone HSL31,26,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+43,Klebsiella sp. HPC61,25,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+44,Klebsiella oxytoca,20,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+45,Clostridium sp.,20,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+46,Klebsiella sp. 928k,19,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+47,uncultured soil bacterium,19,Bacteria,,,,,,
+48,uncultured Trichococcus sp.,18,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Trichococcus
+49,Klebsiella pneumoniae subsp. pneumoniae Kp13,17,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+50,Escherichia fergusonii,17,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+51,uncultured Clostridiales bacterium,17,Bacteria,,Firmicutes,Clostridia,Clostridiales,,
+52,swine fecal bacterium RF3D-Cel1,16,Bacteria,,,,,,
+53,Stenotrophomonas maltophilia,15,Bacteria,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas
+54,Enterobacter hormaechei,14,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+55,Klebsiella sp. B29,14,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+56,Klebsiella sp. J2-K,13,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+57,Klebsiella sp. CWS1,13,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+58,Klebsiella sp. HGB0168,13,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+59,Klebsiella sp. CCFM8380,13,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+60,Salmonella enterica subsp. enterica serovar Blegdam,12,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella
+61,Klebsiella sp. XJ1,12,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+62,uncultured Enterobacter sp.,12,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+63,uncultured proteobacterium,12,Bacteria,,Proteobacteria,,,,
+64,uncultured Enterococcaceae bacterium,12,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,
+65,Clostridium pasteurianum DSM 525 = ATCC 6013,12,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+66,Clostridium sp. taihuN5,12,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+67,Pseudomonas aeruginosa,11,Bacteria,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+68,Klebsiella sp. Vr7,11,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+69,bacterium NLAE-zl-P51,11,Bacteria,,,,,,
+70,Escherichia sp. BAB-5781,11,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+71,Klebsiella sp. D3,11,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+72,Enterobacteriaceae bacterium ENNIH3,11,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+73,Klebsiella quasipneumoniae subsp. similipneumoniae,10,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+74,Shigella flexneri 2a,10,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+75,Clostridium sp. Irt-JG1-9,10,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+76,Klebsiella sp. BTSUK,10,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+77,Enterococcus faecalis ARO1/DG,10,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+78,bacterium tet-w-28,10,Bacteria,,,,,,
+79,Klebsiella quasipneumoniae,9,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+80,Klebsiella sp. YXA1-5,9,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+81,Klebsiella pneumoniae KCTC 2242,9,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+82,Klebsiella pneumoniae 30660/NJST258_1,9,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+83,Klebsiella sp. enrichment culture clone SRC_DSA11,9,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+84,Klebsiella sp. enrichment culture clone SRC_DSA2,9,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+85,bacterium NLAE-zl-P240,9,Bacteria,,,,,,
+86,Lysinibacillus sphaericus,8,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus
+87,Klebsiella sp. CR31,8,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+88,Klebsiella sp. SS6,8,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+89,Klebsiella sp. A18-KP14,8,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+90,Klebsiella sp. GS-6,8,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+91,uncultured Stenotrophomonas sp.,8,Bacteria,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas
+92,Klebsiella pneumoniae subsp. pneumoniae 1158,8,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+93,Achromobacter insolitus,8,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter
+94,uncultured Bacillus sp.,8,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+95,Klebsiella sp. enrichment culture clone SRC_DSB10,7,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+96,Klebsiella sp. SGM 81,7,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+97,Klebsiella sp. L212,7,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+98,Ochrobactrum anthropi,7,Bacteria,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum
+99,Klebsiella sp. YX115S,7,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+100,Klebsiella sp. H2(2016),7,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+101,Shigella boydii,7,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+102,Klebsiella pneumoniae subsp. ozaenae,6,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+103,Klebsiella pneumoniae subsp. pneumoniae KPNIH10,6,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+104,uncultured Enterobacterales bacterium,6,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,,
+105,Metakosakonia sp. MRY16-398,6,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Metakosakonia
+106,uncultured Firmicutes bacterium,6,Bacteria,,Firmicutes,,,,
+107,Escherichia coli O104:H4 str. 2011C-3493,6,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+108,uncultured Aerococcaceae bacterium,6,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,
+109,Lactobacillus brevis,6,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+110,Pectobacterium wasabiae,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium
+111,Klebsiella pneumoniae KP-1,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+112,Klebsiella sp. UIWRF0237,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+113,Klebsiella sp. Y9,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+114,Enterobacter sp. BAB-5830,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+115,Klebsiella sp. R40.1,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+116,Klebsiella sp. enrichment culture clone SRC_DSA6,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+117,Enterobacter cancerogenus,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+118,bacterium,5,Bacteria,,,,,,
+119,Klebsiella sp. enrichment culture clone SRC_DSA5,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+120,Klebsiella pneumoniae subsp. rhinoscleromatis,5,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+121,Facklamia hominis,5,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Facklamia
+122,bacterium NLAE-zl-P740,5,Bacteria,,,,,,
+123,Ochrobactrum sp. PP-2,5,Bacteria,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum
+124,bacterium NLAE-zl-P676,5,Bacteria,,,,,,
+125,Klebsiella sp. SW2,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+126,Klebsiella sp. Ck-1,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+127,Klebsiella sp. enrichment culture clone SRC_DSA24,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+128,Enterobacter sp. TSSAS2-21,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+129,uncultured microorganism,4,,,,,,,
+130,Klebsiella sp. Y12,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+131,Faecalicatena contorta,4,Bacteria,,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Faecalicatena
+132,Klebsiella sp. HPC830,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+133,metal-contaminated soil clone K20-14,4,Bacteria,,Firmicutes,,,,
+134,Phytobacter sp. SCO41,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,,Phytobacter
+135,Enterobacter sp.,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+136,uncultured Clostridiaceae bacterium,4,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,
+137,Actinomyces polynesiensis,4,Bacteria,,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces
+138,Enterobacteriaceae bacterium DHL-23,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+139,Escherichia coli APEC O2-211,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+140,bacterium enrichment culture clone aHCH7_F6,4,Bacteria,,,,,,
+141,Stenotrophomonas sp. JA62,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas
+142,Streptomyces sp. DA01013,4,Bacteria,,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+143,uncultured Burkholderiales bacterium,4,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,,
+144,Escherichia sp. UIWRF0005,4,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+145,bacterium L4,4,Bacteria,,,,,,
+146,Klebsiella sp. SOZ2-4101,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+147,Enterobacter hormaechei subsp. steigerwaltii,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+148,Klebsiella sp. 50MoSuero,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+149,Klebsiella sp. A9-kP5,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+150,Klebsiella sp. Z1S-2,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+151,Klebsiella sp. BAB-4799,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+152,Klebsiella sp. HGB0181,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+153,Microbulbifer rhizosphaerae,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Microbulbiferaceae,Microbulbifer
+154,Clostridium sp. LYH1,3,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+155,Klebsiella sp. SRC_DSD6,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+156,Enterobacteriaceae bacterium HGPR36,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+157,Desulfotomaculum sp. CYP9,3,Bacteria,,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum
+158,Pseudomonas sp. enrichment culture clone 2(2012),3,Bacteria,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,
+159,Enterobacteriaceae bacterium DHL-16,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+160,Enterococcus moraviensis,3,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+161,bacterium enrichment culture clone Jdg017,3,Bacteria,,,,,,
+162,Clostridium sulfidigenes,3,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+163,uncultured Parapedobacter sp.,3,Bacteria,,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Parapedobacter
+164,Enterobacteriaceae bacterium DHL-30,3,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+165,unidentified bacterium ZF1,3,Bacteria,,,,,,
+166,Enterobacter sp. 2065,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+167,Klebsiella sp. OC-B2-2,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+168,Pectobacterium sp. R13,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium
+169,Klebsiella pneumoniae subsp. pneumoniae 1084,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+170,Klebsiella pneumoniae HK787,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+171,Lysinibacillus sp. C-3-43,2,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus
+172,Klebsiella sp. BAB-5819,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+173,proteobacterium ARJR SMBS,2,Bacteria,,Proteobacteria,,,,
+174,uncultured Microcoleus sp.,2,Bacteria,,Cyanobacteria,,Oscillatoriales,Microcoleaceae,Microcoleus
+175,Pectobacterium carotovorum subsp. brasiliense,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium
+176,uncultured Lactobacillales bacterium,2,Bacteria,,Firmicutes,Bacilli,Lactobacillales,,
+177,Klebsiella sp. ZD112,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+178,Clostridium butyricum,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+179,uncultured Alteromonadales bacterium,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Alteromonadales,,
+180,Bacillus pumilus,2,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+181,Enterobacteriaceae bacterium,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+182,Clostridium pasteurianum BC1,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+183,bacterium enrichment culture clone ALO1_GLFRUDD03HHUWK,2,Bacteria,,,,,,
+184,Enterococcus sp. T82_5,2,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+185,bacterium enrichment culture clone 4-25,2,Bacteria,,,,,,
+186,bacterium NLAE-zl-H81,2,Bacteria,,,,,,
+187,Clostridium novyi,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+188,Clostridium intestinale,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+189,uncultured Ochrobactrum sp.,2,Bacteria,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum
+190,bacterium NLAE-zl-C134,2,Bacteria,,,,,,
+191,bacterium enrichment culture,2,Bacteria,,,,,,
+192,bacterium enrichment culture clone ALO1_GLFRUDD03GU1KE,2,Bacteria,,,,,,
+193,Clostridiales bacterium KC4,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,,
+194,Shigella dysenteriae,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+195,Enterobacteriaceae bacterium DHL-38,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+196,Ochrobactrum sp.,2,Bacteria,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum
+197,Enterobacteriaceae bacterium M_Sw_oHS_07/11_1_1(1),2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,,
+198,gamma proteobacterium PII_GH4.2.G5,2,Bacteria,,Proteobacteria,Gammaproteobacteria,,,
+199,Enterobacter hormaechei subsp. xiangfangensis,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+200,[Clostridium] celerecrescens,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,
+201,Stenotrophomonas sp. VTAE155,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas
+202,Escherichia sp. CR1,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+203,Enterococcus sp.,2,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+204,bacterium NLAE-zl-P679,2,Bacteria,,,,,,
+205,Escherichia coli O104:H4,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+206,Enterobacteriaceae bacterium DHL-28,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+207,Lactobacillus intestinalis,2,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+208,Klebsiella sp. JD,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+209,bacterium SRC_DS3a,2,Bacteria,,,,,,
+210,Clostridium sp. FRB1,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+211,Erwinia sp. 01WB03.4-80,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia
+212,bacterium PK15(2012),2,Bacteria,,,,,,
+213,swine fecal bacterium RF3G-Cel3,2,Bacteria,,,,,,
+214,Klebsiella sp. TS27N1,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+215,Klebsiella sp. enrichment culture clone SRC_DSB23,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+216,bacterium AD255/2(2012),2,Bacteria,,,,,,
+217,uncultured Gracilibacter sp.,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Gracilibacteraceae,Gracilibacter
+218,bacterium AD6(2012),2,Bacteria,,,,,,
+219,Klebsiella sp. XW111,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+220,Escherichia sp. UIWRF0466,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+221,Enterobacter sp. pptphilum,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+222,uncultured Bordetella sp.,2,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella
+223,Salmonella enterica subsp. enterica,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella
+224,Enterococcus sp. 118_7,2,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+225,Klebsiella sp. UIWRF0899,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+226,Cronobacter sakazakii,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter
+227,Clostridium carboxidivorans,2,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+228,bacterium enrichment culture clone 6-6,2,Bacteria,,,,,,
+229,Klebsiella sp. enrichment culture clone SRC_DSA4,2,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+230,uncultured Nitrospina sp.,2,Bacteria,,Nitrospinae,Nitrospinia,Nitrospinales,Nitrospinaceae,Nitrospina
+231,Klebsiella sp. enrichment culture clone SRC_DSD18,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+232,Enterobacter sp. UIWRF0195,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+233,Enterobacter ludwigii,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+234,Lysinibacillus sp.,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus
+235,Pseudescherichia vulneris,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Pseudescherichia
+236,Klebsiella milletis,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+237,Bacillus aryabhattai,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+238,Klebsiella sp. HPC54,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+239,Klebsiella aerogenes,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+240,Klebsiella sp. UIWRF1166,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+241,Dickeya chrysanthemi,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Dickeya
+242,Klebsiella sp. HF2,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+243,Pseudomonas sp.,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+244,bacterium SRCfj.01,1,Bacteria,,,,,,
+245,Proteus sp. Unisa41,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus
+246,endophytic bacterium SV720,1,Bacteria,,,,,,
+247,Klebsiella pneumoniae subsp. pneumoniae HS11286,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+248,uncultured Sporosarcina sp.,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina
+249,Klebsiella sp. Y10,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+250,Enterococcus sp. T004_9,1,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+251,Klebsiella sp. enrichment culture clone SRC_DSA17,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+252,Klebsiella sp. BAB-5872,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+253,Enterococcus sp. T004_1,1,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+254,Bacillus sp. H6,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+255,Shigella sp. UST050418-695,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+256,uncultured Bacillaceae bacterium,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,
+257,Bacillus sp. R2A,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+258,Kosakonia sp.,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kosakonia
+259,Klebsiella sp. NFY121,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+260,Klebsiella sp. KYS,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+261,Klebsiella sp. N28,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+262,Klebsiella sp. enrichment culture clone P1.23,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+263,Pseudomonas sp. PC IW 25,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+264,uncultured Clostridia bacterium,1,Bacteria,,Firmicutes,Clostridia,,,
+265,Bacillus sp. 4072,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+266,bacterium TN-12S,1,Bacteria,,,,,,
+267,Klebsiella senegalensis,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+268,BEV proteobacterium,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+269,Klebsiella sp. HGA0162,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+270,Actinomyces sp. 152R-3,1,Bacteria,,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces
+271,Clostridium sp. RTT1,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+272,Bacillus paralicheniformis,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+273,Klebsiella sp. I28A,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+274,swine manure bacterium RT-2A,1,Bacteria,,,,,,
+275,Klebsiella sp. HK 34-2,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+276,uncultured Staphylococcus sp.,1,Bacteria,,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus
+277,swine manure bacterium 37-11,1,Bacteria,,,,,,
+278,Rhizobium sp.,1,Bacteria,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+279,uncultured fungus,1,Eukaryota,Fungi,,,,,
+280,Klebsiella sp. HPC804,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+281,Clostridium sp. RTT2,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+282,Kosakonia pseudosacchari,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kosakonia
+283,Pantoea eucalypti,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea
+284,Klebsiella sp. TPS5,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+285,Clostridium nitritogenes,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+286,Clostridium sp. C5S8,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+287,bacterium R12,1,Bacteria,,,,,,
+288,Klebsiella sp. KG1,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+289,Clostridium sp. enrichment culture clone NHT53,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+290,Clostridium sp. KYT-1,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+291,Vibrio sp. 'A10 isolate-3',1,Bacteria,,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio
+292,Klebsiella sp. I-Z6,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+293,Klebsiella sp. ICBR 183,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+294,Klebsiella sp. enrichment culture clone Xuan01,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+295,Streptomyces sp. DR-R15,1,Bacteria,,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+296,Pseudomonas sp. MC,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+297,Stenotrophomonas sp.,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas
+298,Enterococcus sp. DJ2,1,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+299,Alcaligenes sp. PNCB 1,1,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+300,unidentified marine bacterioplankton,1,Bacteria,,,,,,
+301,iron-reducing bacterium enrichment culture clone FEA_2_B4,1,Bacteria,,,,,,
+302,Shigella sp. BBDP80,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+303,uncultured Sphingomonas sp.,1,Bacteria,,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas
+304,Clostridium sp. B905-1,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+305,Clostridium ragsdalei,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+306,Desulfotomaculum sp.,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum
+307,uncultured Ruminococcaceae bacterium,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,
+308,bacterium NLAE-zl-G505,1,Bacteria,,,,,,
+309,bacterium NLAE-zl-G394,1,Bacteria,,,,,,
+310,uncultured Pseudomonas sp.,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+311,Clostridium sp. R9,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+312,bacterium enrichment culture clone Jdg022,1,Bacteria,,,,,,
+313,bacterium NLAE-zl-H475,1,Bacteria,,,,,,
+314,bacterium NLAE-zl-H428,1,Bacteria,,,,,,
+315,uncultured beta proteobacterium,1,Bacteria,,Proteobacteria,Betaproteobacteria,,,
+316,Enterobacteriaceae bacterium DHL-39,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+317,uncultured Alcaligenes sp.,1,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+318,Clostridiaceae bacterium SH053,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,
+319,Enterobacteriaceae bacterium DHL-34,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+320,bacterium NLAE-zl-H29,1,Bacteria,,,,,,
+321,Escherichia coli O157:H7,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+322,Micrococcus luteus,1,Bacteria,,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus
+323,[Clostridium] sporosphaeroides,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,
+324,uncultured Alcaligenaceae bacterium,1,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,
+325,Achromobacter sp. DF4,1,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter
+326,Enterococcus sp. enrichment culture clone PTmrs15,1,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+327,Lactobacillus murinus,1,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+328,Clostridium sp. 14AAG2-ana7-2,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+329,Shigella sp. 09-A2,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+330,Escherichia albertii,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+331,Escherichia sp. C3,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+332,uncultured Salmonella sp.,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella
+333,Sporanaerobacter acetigenes,1,Bacteria,,Firmicutes,Tissierellia,Tissierellales,,Sporanaerobacter
+334,uncultured Shigella sp.,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella
+335,bacterium enrichment culture clone aHCH2_G4,1,Bacteria,,,,,,
+336,Escherichia coli O43 str. RM10042,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+337,uncultured Lachnospiraceae bacterium,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,
+338,Clostridium kogasensis,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+339,bacterium enrichment culture clone Jdg016,1,Bacteria,,,,,,
+340,Escherichia sp. C1,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+341,uncultured Delftia sp.,1,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia
+342,uncultured Pseudomonadales bacterium,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Pseudomonadales,,
+343,uncultured Peptostreptococcaceae bacterium,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,
+344,bacterium CSR-63,1,Bacteria,,,,,,
+345,Clostridium sp. V410,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium
+346,Citrobacter freundii,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter
+347,Enterobacter sp. BAB-5834,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+348,Kosakonia cowanii,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kosakonia
+349,Ochrobactrum sp. Azn6.1,1,Bacteria,,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum
+350,Enterococcus sp. CTB374-1,1,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+351,bacterium 14(2016),1,Bacteria,,,,,,
+352,uncultured Anaerofustis sp.,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Anaerofustis
+353,Salmonella enterica subsp. enterica serovar Pullorum,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella
+354,Enterobacter sp. ANT 02,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter
+355,bacterium 6(2016),1,Bacteria,,,,,,
+356,uncultured Sporanaerobacter sp.,1,Bacteria,,Firmicutes,Tissierellia,Tissierellales,,Sporanaerobacter
+357,Pectobacterium parmentieri WPP163,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium
+358,Eubacterium limosum,1,Bacteria,,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,Eubacterium
+359,bacterium NLAE-zl-G381,1,Bacteria,,,,,,
+360,Ralstonia insidiosa,1,Bacteria,,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia
+361,Escherichia coli Nissle 1917,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+362,Streptomyces litoralis,1,Bacteria,,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces
+363,Enterococcus faecium,1,Bacteria,,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+364,Escherichia coli O124:H-,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,
+365,uncultured rumen bacterium,1,Bacteria,,,,,,
+366,Escherichia coli UMNK88,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+367,bacterium NLAE-zl-H4,1,Bacteria,,,,,,
+368,Escherichia sp. 54,1,Bacteria,,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
